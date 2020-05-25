@@ -1,3 +1,5 @@
+**This is here in case Runelite ever becomes more closed-source**
+
 ![](https://runelite.net/img/logo.png)
 # runelite [![Travis](https://img.shields.io/travis/runelite/runelite.svg)](https://travis-ci.org/runelite/runelite) [![Discord](https://img.shields.io/discord/301497432909414422.svg)](https://discord.gg/mePCs8U)
 
